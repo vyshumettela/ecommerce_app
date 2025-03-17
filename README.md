@@ -34,3 +34,12 @@ A fully functional e-commerce application built with **Flutter** and **Firebase*
    ```bash
    git clone https://github.com/vyshumettela/ecommerce_app.git
    cd ecommerce_app
+
+Contact
+For any questions or feedback, feel free to reach out:
+
+Name: Sai Vyshnavi Mettela
+
+Email: saivyshnavi1632@gmail.com
+
+GitHub: vyshumettela
